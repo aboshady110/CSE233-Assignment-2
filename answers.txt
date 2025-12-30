@@ -1,0 +1,12 @@
+Assignment 2 – Answers
+Student Name: Ahmed Mohamed Abdelsamie
+Student ID: 22100317
+
+1) fork():
+Used to create a new process. It returns 0 to the child, PID to the parent.
+
+2) Linker:
+Combines multiple object files and resolves function references.
+
+3) Loader:
+Loads the executable and required shared libraries into memory.
